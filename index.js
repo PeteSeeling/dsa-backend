@@ -37,7 +37,7 @@ function fizzBuzz(num){
     else {
       console.log(num);
     }
-    console.log(16);
+    console.log(15);
   }
 }
 
